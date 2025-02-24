@@ -1,4 +1,4 @@
-Hey! I'm Thomas, a student developer at Creajeux, Nîmes. I'm currently in my final year of studies. Feel free to explore some of the projects I've worked on!
+##Hey! I'm Thomas, a student developer at Creajeux, Nîmes. I'm currently in my final year of studies. Feel free to explore some of the projects I've worked on!
 <!--
 **Armathx/Armathx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
