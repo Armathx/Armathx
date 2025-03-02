@@ -20,19 +20,19 @@ Project duration: 5 months
 
 
 IntoTheLab
-A Puzzle experience where players solve puzzles and interact with the environment in unique ways.
+>> A Puzzle experience where players solve puzzles and interact with the environment in unique ways.
 SFML / C++
 Team size: 3
 Project duration: 6 months
->>
+<<
 
-VR Climbing Project <<
-A VR climbing game featuring procedurally generated cliffs and a unique endurance system inspired by Zelda: Breath of the Wild.
+VR Climbing Project
+>>A VR climbing game featuring procedurally generated cliffs and a unique endurance system inspired by Zelda: Breath of the Wild.
 This project is in progress, and I'm currently working on enhancing the procedural generation and climbing mechanics.
 Unreal Engine
 Team size: 2
 Project duration: Ongoing
->>
+<<
 
 
 Feel free to reach out to me if you're interested in collaborating or discussing any of these projects. Let's build something great together!
