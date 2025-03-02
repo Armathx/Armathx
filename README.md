@@ -38,6 +38,6 @@ Project duration: Ongoing
 Feel free to reach out to me if you're interested in collaborating or discussing any of these projects. Let's build something great together!
 
 Contact: thomas.buffet13@gmail.com
-Pronouns: He/Him
+itch.io : https://armathx.itch.io/
 
 Fun Fact: I’ve climbed a virtual mountain faster than I can in real life!
