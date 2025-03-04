@@ -37,7 +37,7 @@ https://armathx.itch.io/into-the-lab
 
 Puggle – A Classic Reimagined
 
-![Capture d’écran 2025-03-04 151531](https://github.com/user-attachments/assets/9e1fc9fe-fe99-4786-8cb6-1b84d1d63ae4)
+![3UWYaf](https://github.com/user-attachments/assets/f0ead450-d0a2-471c-80c9-b444a9928c7e)
 
 >> Puggle is a fast-paced arcade game inspired by the classic Pachinko-style gameplay. Developed in few days (around 7 hours of work), this project is a solo endeavor where I handled all the coding. The game challenges players with precise timing and physics-based interactions, delivering a satisfying and engaging experience.
 Unity
