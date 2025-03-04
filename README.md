@@ -7,6 +7,7 @@ In this project, I worked on the player character and developed the Hypervision 
 Unity
 Team size: 11
 Project duration: 5 months
+>> https://armathx.itch.io/the-rite
 
 Minion Invasion
 >> In a medieval fantasy world, a magic portal opens, bringing hordes of monsters. As part of the kingdom's army, you must repel the invaders.
