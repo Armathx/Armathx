@@ -5,7 +5,7 @@ The Rite
 
 ![43TAWL](https://github.com/user-attachments/assets/1364c280-c076-4c96-84de-fa638cfd936d)
 
-<< This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
+>> This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
 In this project, I worked on the player character and developed the Hypervision power that allows players to see hidden elements and solve puzzles through walls.
 Unity
 Team size: 11
@@ -22,6 +22,7 @@ I worked on creating player spells, including one that spawns meteors and anothe
 Engine used: Unity
 Team size: 10
 Project duration: 5 months
+https://armathx.itch.io/minions-invasion
 
 
 IntoTheLab
@@ -32,6 +33,7 @@ IntoTheLab
 SFML / C++
 Team size: 3
 Project duration: 6 months
+https://armathx.itch.io/into-the-lab
 
 VR Climbing Project
 >>A VR climbing game featuring procedurally generated cliffs and a unique endurance system inspired by Zelda: Breath of the Wild.
