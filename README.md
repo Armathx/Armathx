@@ -3,6 +3,7 @@ Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my fina
 
 The Rite
 >> ![EWcvEQ](https://github.com/user-attachments/assets/36d6c83e-234f-40b0-b740-40cc7262ad66)
+
 This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
 In this project, I worked on the player character and developed the Hypervision power that allows players to see hidden elements and solve puzzles through walls.
 Unity
