@@ -2,6 +2,7 @@ Welcome to Thomas' GitHub! 👋
 Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies. Here are some of the projects I’ve worked on—feel free to explore them!
 
 The Rite
+
 ![43TAWL](https://github.com/user-attachments/assets/1364c280-c076-4c96-84de-fa638cfd936d)
 
 << This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
@@ -13,6 +14,7 @@ https://armathx.itch.io/the-rite
 
 
 Minion Invasion
+
 ![yywOiF](https://github.com/user-attachments/assets/967ab1d9-2a44-4531-8ce1-7b9360433705)
 
 >> In a medieval fantasy world, a magic portal opens, bringing hordes of monsters. As part of the kingdom's army, you must repel the invaders.
@@ -23,6 +25,7 @@ Project duration: 5 months
 
 
 IntoTheLab
+
 ![rPEhfE](https://github.com/user-attachments/assets/80678dac-21d0-4c75-aa68-4a48724f1459)
 
 >> A Puzzle experience where players solve puzzles and interact with the environment in unique ways.
