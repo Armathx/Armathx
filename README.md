@@ -2,7 +2,7 @@ Welcome to Thomas' GitHub! 👋
 Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies. Here are some of the projects I’ve worked on—feel free to explore them!
 
 The Rite
-![OWsUxC](https://github.com/user-attachments/assets/e9c5c23c-4a58-43b8-829a-90dbd08b6eb2)
+![43TAWL](https://github.com/user-attachments/assets/1364c280-c076-4c96-84de-fa638cfd936d)
 
 << This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
 In this project, I worked on the player character and developed the Hypervision power that allows players to see hidden elements and solve puzzles through walls.
@@ -23,7 +23,7 @@ Project duration: 5 months
 
 
 IntoTheLab
-![pzG56o](https://github.com/user-attachments/assets/49188d89-74a3-4def-ba8f-7436dd70368e)
+![rPEhfE](https://github.com/user-attachments/assets/80678dac-21d0-4c75-aa68-4a48724f1459)
 
 >> A Puzzle experience where players solve puzzles and interact with the environment in unique ways.
 SFML / C++
