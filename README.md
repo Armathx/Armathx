@@ -2,17 +2,19 @@ Welcome to Thomas' GitHub! 👋
 Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies. Here are some of the projects I’ve worked on—feel free to explore them!
 
 The Rite
->> ![EWcvEQ](https://github.com/user-attachments/assets/36d6c83e-234f-40b0-b740-40cc7262ad66)
+![OWsUxC](https://github.com/user-attachments/assets/e9c5c23c-4a58-43b8-829a-90dbd08b6eb2)
 
-This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
+<< This game takes you on a journey as a young Skrokac, preparing for their coming-of-age ritual. Things quickly go awry, and it’s up to you to navigate the challenges.
 In this project, I worked on the player character and developed the Hypervision power that allows players to see hidden elements and solve puzzles through walls.
 Unity
 Team size: 11
 Project duration: 5 months
->> https://armathx.itch.io/the-rite
+https://armathx.itch.io/the-rite
 
 
 Minion Invasion
+![yywOiF](https://github.com/user-attachments/assets/967ab1d9-2a44-4531-8ce1-7b9360433705)
+
 >> In a medieval fantasy world, a magic portal opens, bringing hordes of monsters. As part of the kingdom's army, you must repel the invaders.
 I worked on creating player spells, including one that spawns meteors and another that empowers turrets.
 Engine used: Unity
@@ -21,6 +23,8 @@ Project duration: 5 months
 
 
 IntoTheLab
+![pzG56o](https://github.com/user-attachments/assets/49188d89-74a3-4def-ba8f-7436dd70368e)
+
 >> A Puzzle experience where players solve puzzles and interact with the environment in unique ways.
 SFML / C++
 Team size: 3
