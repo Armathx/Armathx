@@ -35,6 +35,15 @@ Team size: 3
 Project duration: 6 months
 https://armathx.itch.io/into-the-lab
 
+Puggle – A Classic Reimagined
+
+![Capture d’écran 2025-03-04 151531](https://github.com/user-attachments/assets/9e1fc9fe-fe99-4786-8cb6-1b84d1d63ae4)
+
+>> Puggle is a fast-paced arcade game inspired by the classic Pachinko-style gameplay. Developed in few days (around 7 hours of work), this project is a solo endeavor where I handled all the coding. The game challenges players with precise timing and physics-based interactions, delivering a satisfying and engaging experience.
+Unity
+Project duration: 6 hours
+[https://armathx.itch.io/into-the-lab ](https://armathx.itch.io/puggle)
+
 VR Climbing Project
 >>A VR climbing game featuring procedurally generated cliffs and a unique endurance system inspired by Zelda: Breath of the Wild.
 This project is in progress, and I'm currently working on enhancing the procedural generation and climbing mechanics.
