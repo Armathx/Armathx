@@ -42,7 +42,7 @@ Puggle – A Classic Reimagined
 >> Puggle is a fast-paced arcade game inspired by the classic Pachinko-style gameplay. Developed in few days (around 7 hours of work), this project is a solo endeavor where I handled all the coding. The game challenges players with precise timing and physics-based interactions, delivering a satisfying and engaging experience.
 Unity
 Project duration: 6 hours
-[https://armathx.itch.io/into-the-lab ](https://armathx.itch.io/puggle)
+[https://armathx.itch.io/puggle](https://armathx.itch.io/puggle) 
 
 VR Climbing Project
 >>A VR climbing game featuring procedurally generated cliffs and a unique endurance system inspired by Zelda: Breath of the Wild.
