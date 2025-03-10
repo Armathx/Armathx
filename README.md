@@ -1,5 +1,7 @@
-Welcome to Thomas' GitHub! 👋
-Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies. Here are some of the projects I’ve worked on—feel free to explore them!
+<h1>Welcome to Thomas' GitHub! 👋
+  
+Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies.
+Here are some of the projects I’ve worked-on feel free to explore them!</h1>
 
 The Rite
 
