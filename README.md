@@ -11,7 +11,7 @@ AhuKhan, Prophecy of The Fallen Gods
 About the Project :
 Developed in Unreal Engine 5 by a team of 12 students — 7 artists and 5 programmers — over the course of 3 months.
 
-My Contributions :
+>> My Contributions :
 - Built the full player combat system: melee combos, dodge, block, and ranged attacks (CPP and Blueprints)
 - Set up animation logic: montages, transitions, and weapon-based hitboxes (Animation Blueprints)
 - Integrated most VFX and SFX: trails, impacts, adaptive music cues
@@ -19,7 +19,7 @@ My Contributions :
   
 Team size: 12
 Project duration: 3 months
-[https://armathx.itch.io/the-rite](https://armathx.itch.io/ahukhan)
+[https://armathx.itch.io/ahukhan](https://armathx.itch.io/ahukhan)
 
 
 The Rite
