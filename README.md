@@ -3,6 +3,25 @@
 Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies.
 Here are some of the projects I’ve worked-on feel free to explore them!</h1>
 
+AhuKhan, Prophecy of The Fallen Gods
+
+![QpzF9m](https://github.com/user-attachments/assets/989e28dd-f8e9-47ba-a20e-a5f1c87870ef)
+
+>> Play as Ahau K’an, the chosen Guardian tasked with restoring balance after the gods unleash chaos upon the world. Face divine trials, master powerful combat abilities, and confront ancient deities in a fight for survival.
+About the Project :
+Developed in Unreal Engine 5 by a team of 12 students — 7 artists and 5 programmers — over the course of one semester.
+
+My Contributions :
+- Built the full player combat system: melee combos, dodge, block, and ranged attacks
+- Set up animation logic: montages, transitions, and weapon-based hitboxes
+- Integrated most VFX and SFX: trails, impacts, adaptive music cues
+- Ensured tight gameplay feel and responsive feedback throughout the experience
+  
+Team size: 12
+Project duration: 3 months
+[https://armathx.itch.io/the-rite](https://armathx.itch.io/ahukhan)
+
+
 The Rite
 
 ![43TAWL](https://github.com/user-attachments/assets/1364c280-c076-4c96-84de-fa638cfd936d)
