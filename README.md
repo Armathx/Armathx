@@ -9,11 +9,11 @@ AhuKhan, Prophecy of The Fallen Gods
 
 >> Play as Ahau K’an, the chosen Guardian tasked with restoring balance after the gods unleash chaos upon the world. Face divine trials, master powerful combat abilities, and confront ancient deities in a fight for survival.
 About the Project :
-Developed in Unreal Engine 5 by a team of 12 students — 7 artists and 5 programmers — over the course of one semester.
+Developed in Unreal Engine 5 by a team of 12 students — 7 artists and 5 programmers — over the course of 3 months.
 
 My Contributions :
-- Built the full player combat system: melee combos, dodge, block, and ranged attacks
-- Set up animation logic: montages, transitions, and weapon-based hitboxes
+- Built the full player combat system: melee combos, dodge, block, and ranged attacks (CPP and Blueprints)
+- Set up animation logic: montages, transitions, and weapon-based hitboxes (Animation Blueprints)
 - Integrated most VFX and SFX: trails, impacts, adaptive music cues
 - Ensured tight gameplay feel and responsive feedback throughout the experience
   
