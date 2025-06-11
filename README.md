@@ -1,4 +1,4 @@
-<h1>Welcome to Thomas' GitHub! 👋
+![GIFGITHUB3](https://github.com/user-attachments/assets/e774600f-dde1-474f-9dff-ea2f404e582c)<h1>Welcome to Thomas' GitHub! 👋
   
 Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies.
 Here are some of the projects I’ve worked-on feel free to explore them!</h1>
@@ -66,12 +66,14 @@ Project duration: 6 hours
 [https://armathx.itch.io/puggle](https://armathx.itch.io/puggle) 
 
 VR Climbing Project
->>A VR climbing game featuring procedurally generated cliffs and a unique endurance system inspired by Zelda: Breath of the Wild.
-This project is in progress, and I'm currently working on enhancing the procedural generation and climbing mechanics.
-Unreal Engine
-Team size: 2
-Project duration: Ongoing
 
+![GIFGITHUB3](https://github.com/user-attachments/assets/b6b205c2-c229-4c0f-814a-164a2270421d)
+
+
+>>This solo-developed VR sandbox game blends fast-paced climbing, parkour, and physical interaction in a fluid, immersive world. Players can leap between walls, vault obstacles, throw and grab handholds, and interact naturally with their environment using motion controls. The game encourages freeform exploration and creativity through responsive mechanics and tactile feedback.
+Unreal Engine
+Team size: 1
+Project duration: Ongoing
 
 Feel free to reach out to me if you're interested in collaborating or discussing any of these projects. Let's build something great together!
 
