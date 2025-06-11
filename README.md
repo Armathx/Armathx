@@ -1,4 +1,4 @@
-![GIFGITHUB3](https://github.com/user-attachments/assets/e774600f-dde1-474f-9dff-ea2f404e582c)<h1>Welcome to Thomas' GitHub! 👋
+Welcome to Thomas' GitHub! 👋
   
 Hey! I'm Thomas, a student developer at Creajeux in Nîmes, currently in my final year of studies.
 Here are some of the projects I’ve worked-on feel free to explore them!</h1>
